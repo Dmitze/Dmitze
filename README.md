@@ -41,7 +41,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dmitze&show_icons=true&locale=en&layout=compact" alt="dmitze" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dmitze&show_icons=true&locale=en" alt="dmitze" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dmitze&" alt="dmitze" /></p>
 
