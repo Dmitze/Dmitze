@@ -1,5 +1,4 @@
 ### Hi there 👋
-### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Technical+Skills)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70001&width=435&lines=Web+Development)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=HTML%2FCSS%3A)](https://git.io/typing-svg)
@@ -36,8 +35,8 @@
 - 📫 How to reach me **https://dmitze.github.io/portfolio/**
 
 - ⚡ Skills **Web Development:**
--HTML, CSS (Flexbox, Grid)
--JavaScript (jQuery)
+### -HTML, CSS (Flexbox, Grid)
+### -JavaScript (jQuery)
 -WordPress (theme and plugin customization)
 -Bootstrap (responsive design)
 **Databases:**
