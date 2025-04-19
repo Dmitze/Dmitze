@@ -34,30 +34,30 @@
 
 - 📫 How to reach me **https://dmitze.github.io/portfolio/**
 
-- ⚡ Skills **Web Development:**
+### - ⚡ Skills **Web Development:**
 ### -HTML, CSS (Flexbox, Grid)
 ### -JavaScript (jQuery)
--WordPress (theme and plugin customization)
--Bootstrap (responsive design)
-**Databases:**
--SQL (Postgres, MySQL)
--Tools: IBExpert, PHPMyAdmin
-**Server Administration:**
--Windows Server (configuration and administration)
--Active Directory
-**1C BAS Work**
--Configurations and printed forms
-**Data Analysis:**
--Log reading (JSON, XML)
-**Setup and Administration:**
--Operating Systems: Windows 98/ME/2000/XP/Vista/7, MS Office
--Data backup systems and inventory management
-**Networking Technologies:**
--Basic networking protocols: DNS, DHCP, VPN
--Network issue diagnosis and office equipment maintenance
-**Additional Skills:**
--ServiceDesk Systems (Jira, GLPI)
--Graphic Editors (Adobe Photoshop, Figma)
+### -WordPress (theme and plugin customization)
+### -Bootstrap (responsive design)
+### - ⚡ Skills **Databases:**
+###-SQL (Postgres, MySQL)
+###-Tools: IBExpert, PHPMyAdmin
+### - ⚡ Skills **Server Administration:**
+### -Windows Server (configuration and administration)
+### -Active Directory
+### - ⚡ Skills **1C BAS Work**
+### -Configurations and printed forms
+### - ⚡ Skills **Data Analysis:**
+### -Log reading (JSON, XML)
+### - ⚡ Skills **Setup and Administration:**
+### -Operating Systems: Windows 98/ME/2000/XP/Vista/7, MS Office
+### -Data backup systems and inventory management
+### - ⚡ Skills **Networking Technologies:**
+### -Basic networking protocols: DNS, DHCP, VPN
+### -Network issue diagnosis and office equipment maintenance
+### - ⚡ Skills **Additional Skills:**
+### -ServiceDesk Systems (Jira, GLPI)
+### -Graphic Editors (Adobe Photoshop, Figma)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/codepen.io/dimedrolhik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen.io/dimedrolhik" height="30" width="40" /></a>
