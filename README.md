@@ -1,4 +1,5 @@
 ### Hi there 👋
+### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Technical+Skills)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70001&width=435&lines=Web+Development)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=HTML%2FCSS%3A)](https://git.io/typing-svg)
@@ -6,6 +7,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=WordPress%3A)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Bootstrap%3A+)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70001&width=435&lines=Databases)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0720F7&width=435&lines=Web+Development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0720F7&width=435&lines=Server+Administration)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0720F7&width=435&lines=Data+Analysis)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0720F7&width=435&lines=System+Administration)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0720F7&width=435&lines=Networking)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0720F7&width=435&lines=Additional+Skills)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Dmitry</h1>
 <h3 align="center">A passionate frontend developer from Ukrainen</h3>
@@ -28,8 +35,30 @@
 
 - 📫 How to reach me **https://dmitze.github.io/portfolio/**
 
-- ⚡ Fun fact **I am think i'm funny**
-
+- ⚡ Skills **Web Development:**
+-HTML, CSS (Flexbox, Grid)
+-JavaScript (jQuery)
+-WordPress (theme and plugin customization)
+-Bootstrap (responsive design)
+**Databases:**
+-SQL (Postgres, MySQL)
+-Tools: IBExpert, PHPMyAdmin
+**Server Administration:**
+-Windows Server (configuration and administration)
+-Active Directory
+**1C BAS Work**
+-Configurations and printed forms
+**Data Analysis:**
+-Log reading (JSON, XML)
+**Setup and Administration:**
+-Operating Systems: Windows 98/ME/2000/XP/Vista/7, MS Office
+-Data backup systems and inventory management
+**Networking Technologies:**
+-Basic networking protocols: DNS, DHCP, VPN
+-Network issue diagnosis and office equipment maintenance
+**Additional Skills:**
+-ServiceDesk Systems (Jira, GLPI)
+-Graphic Editors (Adobe Photoshop, Figma)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/codepen.io/dimedrolhik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen.io/dimedrolhik" height="30" width="40" /></a>
