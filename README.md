@@ -73,5 +73,102 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dmitze&show_icons=true&locale=en&layout=compact" alt="dmitze" /></p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=450&lines=Hi+there%21+I'm+Dmitry%2C+a+Frontend+Developer)]( https://git.io/typing-svg )
 
+<h1 align="center">👋 Привіт, я Дмитро</h1>
+<h3 align="center">Frontend розробник та системний адміністратор з України</h3>
+
+<!-- Статистика -->
+<p align="center">
+  <a href="https://github.com/dmitze ">
+    <img src="https://komarev.com/ghpvc/?username=dmitze&label=Перегляди+профілю&color=blue&style=flat" alt="dmitze" />
+  </a>
+</p>
+
+---
+
+### 🧰 Мої навички
+
+#### 💻 Web Development
+- HTML5, CSS3 (Flexbox, Grid)
+- JavaScript (ES6+, jQuery)
+- WordPress (теми, плагіни)
+- Bootstrap 5, Responsive Design
+
+#### 🛢️ Бази даних
+- SQL (MySQL, PostgreSQL, MariaDB)
+- Tools: PHPMyAdmin, IBExpert
+
+#### 🖥️ Системне адміністрування
+- Windows Server, Active Directory
+- Резервне копіювання, мережеве обладнання
+
+#### 📊 Аналіз даних
+- JSON, XML, логи
+- GLPI, Jira
+
+#### 🎨 Додаткові навички
+- Adobe Photoshop, Figma
+- 1С:Підприємство (конфігурації, друкарські форми)
+
+---
+
+### 📚 Вивчаю зараз
+
+[![Typing SVG]( https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F70001&width=450&lines=TypeScript%2C+React%2C+Vue+3%2C+Docker%2C+Node.js)]( https://git.io/typing-svg )
+
+---
+
+### 🌱 Мої проекти
+
+- [Персональне портфоліо](https://dmitze.github.io/portfolio/ )
+- [Всі проекти на GitHub](https://github.com/dmitze?tab=repositories)
+
+---
+
+### 📈 GitHub статистика
+
+<p align="center">
+  <img src=" https://github-readme-stats.vercel.app/api?username=dmitze&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src=" https://github-readme-stats.vercel.app/api/top-langs/?username=dmitze&theme=dracula&layout=compact" alt="Top Langs" />
+</p>
+
+---
+
+### 🧩 Іконки навичок
+
+<p align="center">
+  <a href=" https://getbootstrap.com " target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg " alt="bootstrap" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/ " target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg " alt="css3" width="40" height="40"/> </a>
+  <a href="https://www.figma.com/ " target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg " alt="figma" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/ " target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg " alt="git" width="40" height="40"/> </a>
+  <a href="https://gulpjs.com " target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg " alt="gulp" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/ " target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg " alt="html5" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript " target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg " alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/ " target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg " alt="mysql" width="40" height="40"/> </a>
+  <a href="https://www.photoshop.com/en " target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg " alt="photoshop" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org " target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg " alt="postgresql" width="40" height="40"/> </a>
+  <a href="https://sass-lang.com " target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg " alt="sass" width="40" height="40"/> </a>
+  <a href="https://www.sqlite.org/ " target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg " alt="sqlite" width="40" height="40"/> </a>
+</p>
+
+---
+
+### 🤝 Зв’язок
+
+<div align="center">
+  <a href="https://codepen.io/dimedrolhik " target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg " height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/%d0%b4%d0%bc%d0%b8%d1%82%d1%80%d0%b8%d0%b9-%d1%88%d0%b8%d0%b2%d0%b0%d1%87%d0%be%d0%b2-957b16247/ " target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg " height="30" width="40" /></a>
+  <a href="https://facebook.com/profile.php?id=100042965304165" target="_blank"><img src=" https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg " height="30" width="40" /></a>
+  <a href="https://instagram.com/shivahov_official " target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg " height="30" width="40" /></a>
+  <a href="https://youtube.com/ @retransformed/playlists" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg " height="30" width="40" /></a>
+  <a href="https://discord.gg/dimedrolhik " target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg " height="30" width="40" /></a>
+</div>
+
+---
+
+### ⭐ Якщо сподобалось — постав зірочку!
 
