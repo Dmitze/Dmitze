@@ -1,4 +1,4 @@
-# 🚀 Dmitry Shivachov (Dmitze) - Interactive Portfolio
+# 🚀 Dmitry Shivachov (Dmitze) -  Portfolio
 
 <div align="center">
 
