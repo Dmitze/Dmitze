@@ -300,7 +300,7 @@ Passionate JavaScript/TypeScript developer specializing in **Discord/Matrix bots
 | 📧 **Email** | dmitze_shivachov@outlook.com |
 | 💬 **Discord** | dmitry_shivachov3756 |
 | 🌐 **Portfolio** | [dmitze.github.io/portfolio](https://dmitze.github.io/portfolio) |
-| 📄 **Interactive Portfolio** | [PORTFOLIO.md](PORTFOLIO.md) |
+| 📄 **Portfolio description** | [PORTFOLIO.md](PORTFOLIO.md) |
 
 </div>
 
