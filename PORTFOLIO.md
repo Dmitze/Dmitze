@@ -95,7 +95,7 @@ Experienced JavaScript/TypeScript developer specializing in **Discord/Matrix bot
 - **CMS:** WordPress (theme/plugin customization)
 - **Design:** Figma, Adobe Photoshop, UI/UX principles
 - **System Admin:** Windows Server, Active Directory, basic networking
-- **Languages:** Ukrainian (native), English (professional), Russian
+- **Languages:** Ukrainian (native), English (Basic), Russian
 
 </details>
 
