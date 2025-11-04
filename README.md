@@ -91,18 +91,16 @@ Passionate JavaScript/TypeScript developer specializing in **Discord/Matrix bots
 
 - 🤖 **Built Discord AI Bot** with 1000+ users, 99.9% uptime, <1.5s response time
 - 🧠 **Created Matrix AI Chatbot** with local LLM and privacy-first approach
-- 📊 **Developed 5+ Google Apps Script solutions** for document automation
+- 📊 **Developed 15+ Google Apps Script solutions** for document automation
 - 🐳 **Implemented Docker containerization** with comprehensive CI/CD
 - 📈 **Achieved 95%+ test coverage** in production applications
 - 🌍 **Multi-language support** (Ukrainian/English) for international projects
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Complete Project Portfolio
 
-<details>
-<summary><b>🤖 Discord AI Assistant Bot</b></summary>
-
+### 🤖 **Discord AI Assistant Bot (Godzilla)**
 <div align="center">
 
 ![Discord.js](https://img.shields.io/badge/Discord.js-7289DA?style=for-the-badge&logo=discord&logoColor=white)
@@ -117,11 +115,20 @@ Passionate JavaScript/TypeScript developer specializing in **Discord/Matrix bots
 
 **Tech:** Node.js 18+, TypeScript 5, Discord.js, OpenAI, Redis, Prometheus, Docker, Jest
 
+<details>
+<summary>📊 Project Stats</summary>
+<ul>
+  <li>👥 1000+ Active Users</li>
+  <li>📈 99.9% Uptime</li>
+  <li>⚡ <1.5s Response Time</li>
+  <li>🧪 95%+ Test Coverage</li>
+  <li>🐳 50+ Deployments</li>
+</ul>
 </details>
 
-<details>
-<summary><b>🧠 Matrix AI Assistant Drive</b></summary>
+---
 
+### 🧠 **Matrix AI Assistant Drive**
 <div align="center">
 
 ![Matrix](https://img.shields.io/badge/Matrix-000000?style=for-the-badge&logo=matrix&logoColor=white)
@@ -136,11 +143,49 @@ Passionate JavaScript/TypeScript developer specializing in **Discord/Matrix bots
 
 **Tech:** Node.js 20 (ESM), Matrix SDK, Ollama, Google APIs, Redis, Prometheus/Grafana
 
+<details>
+<summary>🔑 Key Features</summary>
+<ul>
+  <li>🔐 Local LLM Processing</li>
+  <li>📁 Google Drive Integration</li>
+  <li>⚡ Redis Caching</li>
+  <li>📊 Prometheus Monitoring</li>
+  <li>🐳 Docker Containerization</li>
+</ul>
 </details>
 
-<details>
-<summary><b>📊 GoogleAppSuicideSquad</b></summary>
+---
 
+### ☁️ **SheetlingBOT**
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dmitze/SheetlingBOT)
+*Professional Discord bot for managing Google Sheets with enhanced security*
+
+**Tech:** TypeScript, Discord.js, Google Sheets API, Docker, Redis, Jest
+
+<details>
+<summary>🎯 Features</summary>
+<ul>
+  <li>🔐 Google Service Account Authentication</li>
+  <li>🛡️ Automatic Access Verification</li>
+  <li>👥 Discord Role-based Access Control</li>
+  <li>📊 Real-time Data Access</li>
+  <li>⚡ Redis Caching</li>
+  <li>🧪 85+ Tests with 90%+ Coverage</li>
+</ul>
+</details>
+
+---
+
+### 📊 **GoogleAppSuicideSquad**
 <div align="center">
 
 ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
@@ -155,11 +200,77 @@ Passionate JavaScript/TypeScript developer specializing in **Discord/Matrix bots
 
 **Tech:** Google Apps Script, HTML/CSS/JS, Google APIs, ExcelJS
 
+<details>
+<summary>📋 Automation Features</summary>
+<ul>
+  <li>✅ Change Tracking & Audit Trails</li>
+  <li>📤 Export to Word/PDF/Excel</li>
+  <li>📊 Modern UI Dashboards</li>
+  <li>🔍 Powerful Search Capabilities</li>
+  <li>⚡ Automated Triggers</li>
+</ul>
 </details>
 
-<details>
-<summary><b>📄 INVOICE Automation</b></summary>
+---
 
+### 🚀 **SheetFlow**
+<div align="center">
+
+![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript)
+
+</div>
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dmitze/SheetFlow)
+*Mobile version of Google Sheets with pagination, dark theme, and minimal functionality*
+
+**Tech:** Google Apps Script, HTML/CSS/JS, PWA
+
+<details>
+<summary>📱 Mobile Features</summary>
+<ul>
+  <li>📱 Responsive Mobile Interface</li>
+  <li>🎨 Modern Dark/Light Theme</li>
+  <li>🔍 Powerful Search & Filtering</li>
+  <li>📊 Cards/Kanban/Table Views</li>
+  <li>⚡ Pagination & Lazy Loading</li>
+</ul>
+</details>
+
+---
+
+### 🤖 **DocsGPT**
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dmitze/DocsGPT)
+*Private AI for agents, assistants and enterprise search*
+
+**Tech:** Python, FastAPI, React, Docker, Kubernetes
+
+<details>
+<summary>🧠 AI Features</summary>
+<ul>
+  <li>🗂️ Wide Format Support (PDF, DOCX, etc.)</li>
+  <li>🌐 Web & Data Integration</li>
+  <li>✅ Reliable Answers with Citations</li>
+  <li>🔑 Streamlined API Keys</li>
+  <li>🔗 Actionable Tooling</li>
+  <li>🔌 Flexible Deployment</li>
+</ul>
+</details>
+
+---
+
+### 📄 **INVOICE Automation**
 <div align="center">
 
 ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
@@ -173,11 +284,20 @@ Passionate JavaScript/TypeScript developer specializing in **Discord/Matrix bots
 
 **Tech:** Google Apps Script, Google Sheets API, PDF generation
 
+<details>
+<summary>📋 Automation Features</summary>
+<ul>
+  <li>📋 Automated Invoice Generation</li>
+  <li>🔢 Ukrainian Text Conversion</li>
+  <li>📊 Inventory Tracking</li>
+  <li>📤 PDF/Excel Export</li>
+  <li>👥 User Management</li>
+</ul>
 </details>
 
-<details>
-<summary><b>📝 Volunteers Document Generator</b></summary>
+---
 
+### 📝 **Volunteers Document Generator**
 <div align="center">
 
 ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
@@ -189,13 +309,22 @@ Passionate JavaScript/TypeScript developer specializing in **Discord/Matrix bots
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dmitze/Volunteers)
 *Automated document generation from Google Forms*
 
-**Tech:** Google Apps Script, Google Docs API, Multi-language support
-
-</details>
+**Tech:** Google Apps Script, Google Docs API, HTML/CSS
 
 <details>
-<summary><b>🌤️ WeatheReport Integration</b></summary>
+<summary>📄 Document Features</summary>
+<ul>
+  <li>📄 Automated DOCX/PDF Generation</li>
+  <li>🌍 Multi-language Support</li>
+  <li>🔤 Ukrainian Grammar Handling</li>
+  <li>📊 Batch Processing</li>
+  <li>🎨 Customizable Templates</li>
+</ul>
+</details>
 
+---
+
+### 🌤️ **WeatheReport Integration**
 <div align="center">
 
 ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
@@ -207,13 +336,173 @@ Passionate JavaScript/TypeScript developer specializing in **Discord/Matrix bots
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dmitze/WeatheReport)
 *Weather API integration for Google Sheets*
 
-**Tech:** Google Apps Script, UAV Forecast API, Automated scheduling
+**Tech:** Google Apps Script, UAV Forecast API, Google Sheets
 
+<details>
+<summary>🌦️ Weather Features</summary>
+<ul>
+  <li>🌦️ Detailed Weather Forecasts</li>
+  <li>⏰ Hourly Forecasting</li>
+  <li>📊 Automatic Data Recording</li>
+  <li>🛰️ Satellite Visibility</li>
+  <li>⚡ Automated Scheduling</li>
+</ul>
 </details>
 
 ---
 
-## 🎨 Web Development
+### 📌 **Google Sheets Change Logger**
+<div align="center">
+
+![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-4285F4?style=for-the-badge&logo=google-sheets&logoColor=white)
+
+</div>
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dmitze/google-sheets-change-logger-ua)
+*Automatic highlighting and logging of changes in Google Sheets*
+
+**Tech:** Google Apps Script, Google Sheets API
+
+<details>
+<summary>📋 Logging Features</summary>
+<ul>
+  <li>🔦 Change Highlighting</li>
+  <li>📝 Detailed Change Logs</li>
+  <li>🧹 Automatic Cleanup</li>
+  <li>👤 Custom User Names</li>
+</ul>
+</details>
+
+---
+
+### 📂 **Google Sheets Auto Backup**
+<div align="center">
+
+![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)
+
+</div>
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dmitze/GoogleSheetsAutoBackup)
+*Daily backup of Google Sheets to a specified Google Drive folder*
+
+**Tech:** Google Apps Script, Google Drive API
+
+<details>
+<summary>💾 Backup Features</summary>
+<ul>
+  <li>⏰ Automatic Daily Backups at 2:00 AM</li>
+  <li>📂 Saves copies to specified Google Drive folder</li>
+  <li>📝 Logs results on ArchiveBackup sheet</li>
+  <li>🔄 Automatic trigger updates</li>
+</ul>
+</details>
+
+---
+
+### 🗃️ **Google Drive Backup Suite**
+<div align="center">
+
+![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)
+
+</div>
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dmitze/google-drive-backup-suite)
+*Automatic folder archiver for Google Drive*
+
+**Tech:** Google Apps Script, Google Drive API
+
+<details>
+<summary>📦 Archive Features</summary>
+<ul>
+  <li>✅ Automatic ZIP archive creation on schedule</li>
+  <li>📂 Stores archives in your Google Drive</li>
+  <li>🗑️ Automatically deletes old archives</li>
+  <li>⚙️ Works without user intervention</li>
+</ul>
+</details>
+
+---
+
+### 📊 **Local History Analytics Snapshot**
+<div align="center">
+
+![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-4285F4?style=for-the-badge&logo=google-sheets&logoColor=white)
+
+</div>
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dmitze/LocalHistoryAnalitikSnapShotTable)
+*Google Sheets auto history & comparison script*
+
+**Tech:** Google Apps Script, Google Sheets API
+
+<details>
+<summary>📈 Analytics Features</summary>
+<ul>
+  <li>📊 Automatic copying of multiple tables to history sheets</li>
+  <li>⏱️ Adds timestamp to each data block</li>
+  <li>📉 Compares changes between versions with visual indicators</li>
+  <li>📅 Scheduled runs via time-based triggers</li>
+</ul>
+</details>
+
+---
+
+### 🏥 **Military Medical Commission**
+<div align="center">
+
+![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google Forms](https://img.shields.io/badge/Google%20Forms-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)
+
+</div>
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dmitze/Military-Medical-Commission)
+*Automated document generation for military medical commissions*
+
+**Tech:** Google Apps Script, Google Forms, Google Docs API
+
+<details>
+<summary>🪖 Military Features</summary>
+<ul>
+  <li>📄 Automatic document creation from Google Form responses</li>
+  <li>📁 Documents saved in separate Google Drive folder</li>
+  <li>🔤 Unique file naming: date — rank — name — unit</li>
+  <li>🚫 Duplicate protection</li>
+</ul>
+</details>
+
+---
+
+### 📄 **Volunteer Letter Generator**
+<div align="center">
+
+![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)
+
+</div>
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dmitze/VolunteerLetter)
+*Automated generation of volunteer documents*
+
+**Tech:** Google Apps Script, Google Docs API
+
+<details>
+<summary> volunte
+<ul>
+  <li>🖨️ Creates personalized documents from Google Docs template</li>
+  <li>⚙️ Processes 5 records at a time to avoid overload</li>
+  <li>✅ Marks processed rows</li>
+  <li>🔁 Avoids document duplication</li>
+</ul>
+</details>
+
+---
+
+### 🎨 **Web Development Projects**
 
 <details>
 <summary><b>🎬 Cinema Page</b></summary>
@@ -248,6 +537,40 @@ Passionate JavaScript/TypeScript developer specializing in **Discord/Matrix bots
 
 </details>
 
+<details>
+<summary><b>🌱 Eco Inspection Website</b></summary>
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript)
+
+</div>
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dmitze/Eco_inspection)
+*Environmental inspection agency website*
+
+</details>
+
+<details>
+<summary><b>📄 PDF Bot Merger</b></summary>
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![PDF](https://img.shields.io/badge/PDF-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)
+
+</div>
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dmitze/pdf_bot_merger)
+*Telegram bot for working with PDF and Word files*
+
+**Tech:** Python, PyPDF2, python-telegram-bot, LibreOffice
+
+</details>
+
 ---
 
 ## 📚 Currently Learning
@@ -269,9 +592,72 @@ Passionate JavaScript/TypeScript developer specializing in **Discord/Matrix bots
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dmitze&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff&icon_color=00ff00)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitze&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff&icon_color=00ff00)
-![GitHub Streak](https://streak-stats.demolab.com/?user=dmitze&theme=radical&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff)
+<!-- Improved GitHub Stats with fallback content -->
+<h3>📊 GitHub Statistics</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dmitze&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff&icon_color=00ff00">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=dmitze&show_icons=true&theme=default&hide_border=true">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dmitze&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff&icon_color=00ff00">
+</picture>
+
+<h3>🏆 Top Languages</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dmitze&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff&icon_color=00ff00">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dmitze&layout=compact&theme=default&hide_border=true">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmitze&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff&icon_color=00ff00">
+</picture>
+
+<h3>🔥 GitHub Streak</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=dmitze&theme=radical&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=dmitze&theme=default&hide_border=true">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=dmitze&theme=radical&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff">
+</picture>
+
+<!-- Enhanced fallback text for when images don't load -->
+<details>
+<summary>📋 GitHub Statistics Summary</summary>
+  <div align="center">
+    <table>
+      <tr>
+        <th>Category</th>
+        <th>Statistics</th>
+      </tr>
+      <tr>
+        <td>🚀 Total Projects</td>
+        <td>35+ Active Repositories</td>
+      </tr>
+      <tr>
+        <td>⭐ Stars Earned</td>
+        <td>100+ Stars Across Repositories</td>
+      </tr>
+      <tr>
+        <td>👥 Bot Users</td>
+        <td>1000+ Active Users</td>
+      </tr>
+      <tr>
+        <td>🛠️ Primary Languages</td>
+        <td>TypeScript, JavaScript, Python, HTML, CSS</td>
+      </tr>
+      <tr>
+        <td>🐳 Containerization</td>
+        <td>Docker, Docker Compose</td>
+      </tr>
+      <tr>
+        <td>🧪 Test Coverage</td>
+        <td>95%+ in Production Apps</td>
+      </tr>
+      <tr>
+        <td>📈 Uptime</td>
+        <td>99.9% Bot Availability</td>
+      </tr>
+      <tr>
+        <td>⚡ Performance</td>
+        <td><1.5s Average Response Time</td>
+      </tr>
+    </table>
+  </div>
+</details>
 
 </div>
 
@@ -313,6 +699,3 @@ Passionate JavaScript/TypeScript developer specializing in **Discord/Matrix bots
 **© 2025 Dmitry Shivachov (Dmitze). All rights reserved.**
 
 </div>
-
-
-
