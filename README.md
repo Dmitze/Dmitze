@@ -56,8 +56,11 @@ Passionate JavaScript/TypeScript developer specializing in **Discord/Matrix bots
 <summary><b>🤖 AI & Automation</b></summary>
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Google APIs](https://img.shields.io/badge/Google%20APIs-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Telegraf](https://img.shields.io/badge/Telegraf-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 </details>
 
@@ -89,6 +92,8 @@ Passionate JavaScript/TypeScript developer specializing in **Discord/Matrix bots
 
 </div>
 
+- 📚 **Created ReadLine Library Bot** with 15,000+ lines of code, 134 tests, and enterprise architecture
+- 🤖 **Integrated Google Gemini AI** for personalized book recommendations
 - 🤖 **Built Discord AI Bot** with 1000+ users, 99.9% uptime, <1.5s response time
 - 🧠 **Created Matrix AI Chatbot** with local LLM and privacy-first approach
 - 📊 **Developed 15+ Google Apps Script solutions** for document automation
@@ -99,6 +104,62 @@ Passionate JavaScript/TypeScript developer specializing in **Discord/Matrix bots
 ---
 
 ## 🚀 Complete Project Portfolio
+
+### 📚 **ReadLine - Enterprise Telegram Library Bot**
+<div align="center">
+
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.3+-blue?style=for-the-badge&logo=typescript&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+</div>
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dmitze/ReadLine)
+*Enterprise-grade Telegram bot for library automation with AI-powered recommendations*
+
+**Tech:** Node.js 18+, TypeScript 5.3+, Telegraf, Google Gemini 2.0 Flash, SQLite, Redis, Bull Queue, Jest
+
+<details>
+<summary>📊 Project Stats</summary>
+<ul>
+  <li>📝 15,000+ Lines of Code</li>
+  <li>🧪 134 Tests (100% Pass Rate)</li>
+  <li>📊 70.21% Test Coverage</li>
+  <li>🗄️ 9 Database Tables with 23 Indexes</li>
+  <li>🚀 Supports 10,000+ Concurrent Users</li>
+  <li>⚡ Sub-100ms Response Time</li>
+</ul>
+</details>
+
+<details>
+<summary>🔑 Key Features</summary>
+<ul>
+  <li>📖 Advanced book catalog with AI-powered search</li>
+  <li>🤖 Google Gemini 2.0 integration for personalized recommendations</li>
+  <li>🎧 Audiobook player with progress tracking</li>
+  <li>⭐ Rating and review system with moderation</li>
+  <li>🛠️ Comprehensive admin panel</li>
+  <li>📊 Advanced analytics and statistics</li>
+  <li>🐳 Docker containerization with Redis job queue</li>
+  <li>🔒 Enterprise-grade security (SQL injection protection, rate limiting)</li>
+</ul>
+</details>
+
+<details>
+<summary>🏗️ Architecture Highlights</summary>
+<ul>
+  <li>Multi-layered architecture with DI Container</li>
+  <li>Result Pattern for type-safe error handling</li>
+  <li>Circuit Breaker pattern for API resilience</li>
+  <li>Multi-layer caching (LRU/LFU/FIFO strategies)</li>
+  <li>Query optimization with 23 database indexes</li>
+  <li>13 multi-step dialog scenes</li>
+  <li>5 core services with 8 repositories</li>
+</ul>
+</details>
+
+---
 
 ### 🤖 **Discord AI Assistant Bot (Godzilla)**
 <div align="center">
@@ -625,7 +686,11 @@ Passionate JavaScript/TypeScript developer specializing in **Discord/Matrix bots
       </tr>
       <tr>
         <td>🚀 Total Projects</td>
-        <td>35+ Active Repositories</td>
+        <td>36+ Active Repositories</td>
+      </tr>
+      <tr>
+        <td>📝 Lines of Code</td>
+        <td>20,000+ in flagship projects</td>
       </tr>
       <tr>
         <td>⭐ Stars Earned</td>

@@ -59,9 +59,15 @@ Experienced JavaScript/TypeScript developer specializing in **Discord/Matrix bot
 <summary><b>🤖 AI & Automation</b></summary>
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Google APIs](https://img.shields.io/badge/Google%20APIs-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Telegraf](https://img.shields.io/badge/Telegraf-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
+- **AI Integration:** Google Gemini 2.0, OpenAI API, Ollama (LLM)
+- **Telegram Bots:** Telegraf, node-telegram-bot-api
+- **Job Queues:** Bull, BullMQ with Redis
 - **Google Apps Script:** Sheets/Docs/Drive automation, custom UI, triggers
 - **Google APIs:** Drive, Sheets, Docs, Forms integration
 - **Document Processing:** PDF generation, Excel/CSV export, Word documents
@@ -113,8 +119,16 @@ Experienced JavaScript/TypeScript developer specializing in **Discord/Matrix bot
 | 🐳 **Deployments** | 50+ successful |
 | 📈 **Uptime** | 99.9% availability |
 | 🌍 **Languages** | Multi-language support |
+| 📝 **Code Quality** | 15,000+ LOC, 134 tests |
+| 🏗️ **Architecture** | Enterprise-grade design |
 
 </div>
+
+### **Enterprise Bot Development**
+- Built **ReadLine Library Bot** with 15,000+ lines of TypeScript code
+- Implemented **Google Gemini 2.0 AI** for intelligent book recommendations
+- Achieved **134 passing tests** with comprehensive coverage (70.21%)
+- Designed **multi-layered architecture** with Circuit Breaker and Result patterns
 
 ### **Bot Development Excellence**
 - Built **Discord AI Assistant Bot** with 1000+ active users and 99.9% uptime
@@ -134,6 +148,62 @@ Experienced JavaScript/TypeScript developer specializing in **Discord/Matrix bot
 ---
 
 ## 🚀 Featured Projects
+
+### 📚 **ReadLine - Enterprise Telegram Library Bot**
+<div align="center">
+
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.3+-blue?style=for-the-badge&logo=typescript&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+</div>
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dmitze/ReadLine)
+*Enterprise-grade Telegram bot for library automation with AI-powered recommendations*
+
+**Tech:** Node.js 18+, TypeScript 5.3+, Telegraf, Google Gemini 2.0 Flash, SQLite, Redis, Bull Queue, Jest
+
+<details>
+<summary>📊 Project Stats</summary>
+<ul>
+  <li>📝 15,000+ Lines of Code</li>
+  <li>🧪 134 Tests (100% Pass Rate)</li>
+  <li>📊 70.21% Test Coverage</li>
+  <li>🗄️ 9 Database Tables with 23 Indexes</li>
+  <li>🚀 Supports 10,000+ Concurrent Users</li>
+  <li>⚡ Sub-100ms Response Time</li>
+</ul>
+</details>
+
+<details>
+<summary>🔑 Key Features</summary>
+<ul>
+  <li>📖 Advanced book catalog with AI-powered search</li>
+  <li>🤖 Google Gemini 2.0 integration for personalized recommendations</li>
+  <li>🎧 Audiobook player with progress tracking</li>
+  <li>⭐ Rating and review system with moderation</li>
+  <li>🛠️ Comprehensive admin panel</li>
+  <li>📊 Advanced analytics and statistics</li>
+  <li>🐳 Docker containerization with Redis job queue</li>
+  <li>🔒 Enterprise-grade security (SQL injection protection, rate limiting)</li>
+</ul>
+</details>
+
+<details>
+<summary>🏗️ Architecture Highlights</summary>
+<ul>
+  <li>Multi-layered architecture with DI Container</li>
+  <li>Result Pattern for type-safe error handling</li>
+  <li>Circuit Breaker pattern for API resilience</li>
+  <li>Multi-layer caching (LRU/LFU/FIFO strategies)</li>
+  <li>Query optimization with 23 database indexes</li>
+  <li>13 multi-step dialog scenes</li>
+  <li>5 core services with 8 repositories</li>
+</ul>
+</details>
+
+---
 
 ### 🤖 **Discord AI Assistant Bot (Godzilla)**
 <div align="center">
@@ -521,6 +591,8 @@ Experienced JavaScript/TypeScript developer specializing in **Discord/Matrix bot
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=2000&color=00FF00&center=true&vCenter=true&width=600&height=50&lines=Ready+to+learn+24%2F7+if+only+give+a+mentor!;Building+intelligent+automation+solutions;Creating+privacy-first+AI+applications;Developing+scalable+web+applications)
+
+**Last Updated:** November 16, 2025
 
 **© 2025 Dmitry Shivachov (Dmitze). All rights reserved.**
 
