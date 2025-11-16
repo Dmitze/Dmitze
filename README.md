@@ -586,6 +586,116 @@ Passionate JavaScript/TypeScript developer specializing in **Discord/Matrix bots
 
 </div>
 
+### 🎓 Master's Degree in Applied Computer Science (AI & Data Science)
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+</div>
+
+<details>
+<summary><b>📖 Semester 1: Programming Foundations</b></summary>
+
+**🐍 Python Programming:**
+- Python, PEP 8, Pickle, OOP
+- unittest, pytest
+- Git, GitHub Actions, Docker, Jenkins
+- OpenMP, Cython
+
+**📊 Mathematics for Computer Science:**
+- Linear Algebra, Calculus
+- Probability Theory, Statistics
+- Bayesian Statistics, Optimization Methods
+- Monte Carlo, A/B Testing
+- NumPy, SciPy, SymPy, MATLAB
+
+**📚 Algorithms and Data Structures:**
+- Dynamic Programming, Greedy Algorithms
+- Divide and Conquer, Heuristic Approaches
+- Python, C++, Java
+- Apache Spark, Dask
+
+</details>
+
+<details>
+<summary><b>🤖 Semester 2: Machine Learning & Big Data (9 Courses)</b></summary>
+
+**🧮 Numerical Programming:**
+- Python, NumPy, SciPy
+- OpenMP, Cython
+
+**🗄️ Databases:**
+- SQL, PostgreSQL, MySQL, SQLite
+- MongoDB, NoSQL
+- Indexing, Query Optimization, Data Warehousing
+
+**🧠 Machine Learning:**
+- Scikit-learn, TensorFlow, PyTorch
+
+**📊 Visual Analytics:**
+- Tableau, Power BI, Google Data Studio, Plotly
+
+**🔮 Deep Learning:**
+- TensorFlow, PyTorch, Keras
+- CNN, RNN, LSTM, Transformers
+
+**🎨 Generative AI:**
+- GPT, DALL·E, Stable Diffusion
+- GANs, Diffusion Models
+- OpenAI API
+
+**⚙️ Applied ML:**
+- XGBoost, LightGBM, AutoML
+- MLflow, TFX, Kubeflow
+- Reinforcement Learning
+
+**🛠️ Data Engineering:**
+- ETL-процеси
+- Apache Spark, Hadoop, Kafka, Airflow
+
+**📈 Product Analytics:**
+- SQL, Python, Pandas, SciPy
+- Bayesian Statistics, A/B Testing, Monte Carlo
+
+</details>
+
+<details>
+<summary><b>☁️ Semester 3: MLOps & Product Management</b></summary>
+
+**☁️ Cloud Computing for ML/AI:**
+- Google Cloud AI, AWS, Azure ML
+- Kubernetes, Docker
+
+**🔄 MLOps CI/CD:**
+- MLflow, Kubeflow, TFX
+- GitHub Actions, Jenkins
+
+**📦 Agile Product Management:**
+- Product Analytics
+- Scrum, Kanban, Jira, Confluence, OKRs
+
+**🎯 Career Strategies and Soft Skills:**
+- Business Communication
+- Emotional Intelligence (EQ)
+- Public Speaking
+- Leadership
+
+</details>
+
+**🎓 Capstone Project:** Real AI solution or automated ML system implementation
+
 ---
 
 ## 📊 GitHub Stats
